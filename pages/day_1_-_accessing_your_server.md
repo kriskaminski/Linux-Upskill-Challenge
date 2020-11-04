@@ -18,8 +18,7 @@ title: Day 1 - Accessing your server
 ## If you're using any Linux or Unix system, including Apple's MacOS, then you can simply open up a "terminal" session and use your command-line ssh client like this:
 `ssh user@<ip address>`
 ## For example:
-
-`ssh support@192.123.321.99`
+ `ssh support@192.123.321.99`
 ## On Linux distributions with a menu you'll typically find the terminal under "Applications menu -> Accessories -> Terminal", "Applications menu -> System -> Terminal" or "Menu -> System -> Terminal Program (Konsole)"- or you can simply search for your terminal application. In many cases Ctrl+Alt+T will also bring up a terminal windows.
 ## If you have configured the remote server with your SSH public key (see "Password-less SSH login" in the EXTENSION section of this post), then you'll need to point to the location of the private part as proof of identity with the "-i" switch, typically like this:
 
