@@ -10,9 +10,18 @@ title: Day 1 - Accessing your server
 ### Once you have reached a level of comfort at the command-line then you'll find your skills transfer not only to all the standard Linux variants, but also to Android, Apple's OSX, OpenBSD, Solaris and IBM AIX. Throughout the course you'll be working on Linux - but in fact most of what is covered is applicable to any system in the "UNIX family" - and the major differences between them are with their graphic user interfaces such as Gnome, Unity, KDE etc - none of which you’ll be using!
 ### Although there is a "root" user, you will be logging in and working from the user account that you setup. Because this is a member of the group "sudo" it is able to run commands "as root" by preceding them with "sudo".
 ## YOUR TASKS TODAY:
-### Connect and login remotely to your server
-### Run a few simple simple commands to check the status of your server
-### Change your password
+### LATER Connect and login remotely to your server
+:PROPERTIES:
+:later: 1604581960597
+:END:
+### LATER Run a few simple simple commands to check the status of your server
+:PROPERTIES:
+:later: 1604581964196
+:END:
+### LATER Change your password
+:PROPERTIES:
+:later: 1604581966024
+:END:
 ## INSTRUCTIONS
 ## Remote access used to be done by the simple telnet protocol, but now the much more secure SSH (“Secure SHell) protocol is always used.
 ## If you're using any Linux or Unix system, including Apple's MacOS, then you can simply open up a "terminal" session and use your command-line ssh client like this:
