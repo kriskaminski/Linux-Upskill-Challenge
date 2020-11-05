@@ -24,3 +24,4 @@ title: Day 1 - Accessing your server
 
 `ssh -i ~/.ssh/id_rsa support@192.123.321.99`
 ## A very slick connection process can be setup with the .ssh/config feature - see the "SSH client configuration" link in the EXTENSION section below.
+##
